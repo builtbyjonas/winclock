@@ -118,7 +118,7 @@
     "autoprefixer": "^10.4.20",
     "browserslist-config-erb": "^0.0.3",
     "chalk": "^5.4.1",
-    "concurrently": "^8.2.1",
+    "concurrently": "^9.1.2",
     "copyfiles": "^2.4.1",
     "core-js": "^3.32.2",
     "cross-env": "^7.0.3",
