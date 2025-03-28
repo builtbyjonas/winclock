@@ -98,7 +98,7 @@
     "react-router-dom": "^7.3.0"
   },
   "devDependencies": {
-    "@electron/rebuild": "^3.3.0",
+    "@electron/rebuild": "^3.7.1",
     "@fiahfy/icns": "^0.0.7",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.11",
     "@svgr/webpack": "^8.1.0",
