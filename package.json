@@ -85,7 +85,7 @@
     }
   },
   "dependencies": {
-    "@electron/notarize": "^2.3.2",
+    "@electron/notarize": "^3.0.1",
     "@headlessui/react": "^2.1.8",
     "electron-auto-launch": "^5.0.7",
     "electron-debug": "^4.1.0",
